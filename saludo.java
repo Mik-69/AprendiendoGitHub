@@ -10,6 +10,8 @@ public class saludo {
         String nombre = sc.nextLine();
 
         System.out.println("Hola " + nombre + " ¡Hoce mucho que no nos vemos!");
+        System.out.println(" Esto es una prueba");
+
 
 
     }
