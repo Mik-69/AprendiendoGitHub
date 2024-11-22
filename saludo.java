@@ -11,7 +11,7 @@ public class saludo {
 
         System.out.println("Hola " + nombre + " ¡Hoce mucho que no nos vemos!");
 
-        sc.close();
+
     }
 
     public void saludarConEdad () {
